@@ -1,0 +1,2 @@
+This project contains a simple implementation of keycloak event listener.
+For further details, please visit the official documentation at: https://www.keycloak.org/docs/latest/server_development/#_providers
